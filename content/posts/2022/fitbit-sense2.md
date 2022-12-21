@@ -13,7 +13,7 @@ Sense2 は現時点で対応しているアプリもかなり少なく、不便�
 
 ##　その他
 
-- [Nasa APOD watch by ceriboo | Fitbit App Gallery](https://gallery.fitbit.com/details/801aab0a-2c23-49a5-8b29-be717e7fb4bb)
+- [Nasa APOD watch by ceriboo | Fitbit App Gallery](https://gallery.fitbit.com/details/801aab0a-2c23-49a5-8b29-be717e7fb4bb)  
   Sense 2 に対応してほしい
 - [Welcome to Lignite](https://www.lignite.io/)  
   下記の参考リンク[1]に書いてあった有力ウォッチフェイス。良さげ。
