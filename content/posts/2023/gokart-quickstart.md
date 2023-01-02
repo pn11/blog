@@ -173,7 +173,8 @@ This progress looks :) because there were no failed tasks or missing dependencie
 ===== Luigi Execution Summary =====
 ```
 
-なんかできたけどとりあえずはテンプレート使わずにオレオレファイル構造で良いかな。  
+なんかできた。これをやることによっておそらくタスクを再利用しやすくなるなどのメリットがあるのだと思うが、とりあえずはテンプレート使わずにオレオレファイル構造で良いかな。  
+
 この部分読んでたら typo みつけたのでプルリク出しといた。新年初プルリク。
 
 - [[docs] Fix typo: templete -> template by pn11 · Pull Request #301 · m3dev/gokart](https://github.com/m3dev/gokart/pull/301)
