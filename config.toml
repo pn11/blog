@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://pn11.github.io/blog/'
+languageCode = 'ja-jp'
 title = "pn11's blog"
 theme = "beautifulhugo"
 
