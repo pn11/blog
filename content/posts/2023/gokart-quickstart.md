@@ -8,8 +8,7 @@ date: 2023-01-02T16:00:00+09:00
 ## gokart とは
 
 [gokart](https://github.com/m3dev/gokart) はエムスリーが開発している機械学習パイプラインツール。 Spotify により開発されている [luigi](https://github.com/spotify/luigi) のラッパーになっている。  
-機械学習モデルを開発していると前処理、事前学習、ファインチューニング、可視化などなど工程が多く、管理が大変になる。パイプラインツールを使って楽になるのか試してみた。  
-ただ以下の公式ドキュメントに沿って動かしただけ。
+機械学習モデルを開発していると前処理、事前学習、ファインチューニング、可視化などなど工程が多く、管理が大変になる。パイプラインツールを使って楽になるのか試してみた。内容的にはただ以下の公式ドキュメントに沿って動かしただけ。
 
 - [Intro To Gokart — gokart documentation](https://gokart.readthedocs.io/en/latest/intro_to_gokart.html)
 
@@ -174,4 +173,7 @@ This progress looks :) because there were no failed tasks or missing dependencie
 ===== Luigi Execution Summary =====
 ```
 
-なんかできたけどとりあえずはテンプレート使わずにオレオレファイル構造で良いかな。
+なんかできたけどとりあえずはテンプレート使わずにオレオレファイル構造で良いかな。  
+この部分読んでたら typo みつけたのでプルリク出しといた。新年初プルリク。
+
+- [[docs] Fix typo: templete -> template by pn11 · Pull Request #301 · m3dev/gokart](https://github.com/m3dev/gokart/pull/301)
