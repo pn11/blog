@@ -22,7 +22,10 @@ Sense2 は現時点で対応しているアプリもかなり少なく、不便�
 
 ### 2023.01.13
 
-飽きたので [SimpleSecretary](https://gallery.fitbit.com/details/6e7e02af-6f9c-4ccb-8405-cf76a11ab0fa) にした。 Simple と言いつつごちゃごちゃしてるのでこれもすぐ飽きそう。
+飽きたので [SimpleSecretary](https://gallery.fitbit.com/details/6e7e02af-6f9c-4ccb-8405-cf76a11ab0fa) にした。 Simple と言いつつごちゃごちゃしてるのでこれもすぐ飽きそう。  
+結局満足するには自分で作るのが良さそう。この辺とか見て作るか。
+
+- [開発初心者でもできるFitbit Clock Faceの作り方 - Qiita](https://qiita.com/MsSsht03/items/d69b46c1940822ec534b)
 
 ## 参考リンク
 
