@@ -11,12 +11,18 @@ Sense2 は現時点で対応しているアプリもかなり少なく、不便�
 
 なお Fitbit の App Store 的なやつ <https://gallery.fitbit.com/> はググっても出て来ないしアプリからも行けないので毎回忘れる。ここにメモしておく。ここでアプリを見ると Sense 2 に対応しているものの少なさが分かる (Sense 2 のみに絞って検索できないのも不便)。現状では Sense 2 を買うのはまったくおすすめできない。
 
-##　その他
+## その他
 
 - [Nasa APOD watch by ceriboo | Fitbit App Gallery](https://gallery.fitbit.com/details/801aab0a-2c23-49a5-8b29-be717e7fb4bb)  
   Sense 2 に対応してほしい
 - [Welcome to Lignite](https://www.lignite.io/)  
-  下記の参考リンク[1]に書いてあった有力ウォッチフェイス。良さげ。
+  下記の参考リンク[1]に書いてあった有料ウォッチフェイス。良さげ。
+
+## アップデート
+
+### 2023.01.13
+
+飽きたので [SimpleSecretary](https://gallery.fitbit.com/details/6e7e02af-6f9c-4ccb-8405-cf76a11ab0fa) にした。 Simple と言いつつごちゃごちゃしてるのでこれもすぐ飽きそう。
 
 ## 参考リンク
 
