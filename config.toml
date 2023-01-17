@@ -2,6 +2,12 @@ baseURL = 'https://pn11.github.io/blog/'
 languageCode = 'ja-jp'
 title = "pn11's blog"
 theme = "beautifulhugo"
+disqusShortname = "pn11-blog"
 
 [markup.goldmark.renderer]
  unsafe = true
+
+[Params]
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
