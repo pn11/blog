@@ -9,14 +9,14 @@ date: 2023-12-01T21:30:00+09:00
 - [まにー Advent Calendar 2023](https://adventar.org/calendars/9303)
 - [かかーたさんの一人Advent2023 -思想脳弄- Advent Calendar 2023](https://adventar.org/calendars/9642)
 
-去年は以下の3つを読んでいましたが、自分でやろうとは思いませんでした。
+昨年は以下の3つを読んでいましたが、自分でやろうとは思いませんでした。
 
 - [人工芝 Advent Calendar 2022](https://adventar.org/calendars/7871)
 - [梔子 Advent Calendar 2022](https://adventar.org/calendars/7867)
 - [ピジェベント Advent Calendar 2022](https://adventar.org/calendars/7869)
 - [やれるのか?かかーたさんしか投稿しないアドヴェントカレンダー Advent Calendar 2022](https://adventar.org/calendars/8263)
 
-しかしかかーたさんと振り返りをした以下のポッドキャストで話したのですが、[r7kamura](https://r7kamura.com/)さんメソッドを使えば毎日書けるのではないかと思い始めました。
+しかし、かかーたさんと振り返りをした以下のポッドキャストで話したのですが、[r7kamura](https://r7kamura.com/)さんメソッドを使えば毎日書けるのではないかと思い始めました。
 
 - [Interaxion 47: Out of Context](https://interaxion-podcast.github.io/47#2627-%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC)
 
@@ -27,3 +27,5 @@ r7kamuraさんメソッドというのは僕が勝手に呼んでいるだけで
 - [良かったゲーム2022](https://r7kamura.com/articles/2022-12-25-game-2022)
 
 そんな訳で、明日からは「○○2023」というような記事を乱発していく予定です。もしかしたら「○○2022」から先に消化するかもしれません。
+
+(なお、r7kamuraさんについては[このブログの最初の記事](https://pn11.github.io/blog/posts/2022/first/)でも書いていた。)
