@@ -26,7 +26,7 @@ Duolingo のようなあまり気の進まない勉強を500日以上続けた�
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7moN58Btv1spZ1TCpuqAKb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-終わったあと、サイトウさんが次のライブで [Blackbird](https://youtu.be/Man4Xw8Xypo) を演奏すると言っていて、「俺も弾きて〜」となったのをきっかけに、COVID-19の流行初期に買っていたギター ([S.Yairi YM-02](https://kcmusic.jp/syairi/compact-acoustic.html))を引っぱりだしてきて弾き始めた。(なんかサイトウさんの話ばかりしている)
+終わったあと、サイトウさんが次のライブで [Blackbird](https://youtu.be/Man4Xw8Xypo) を演奏すると言っていて、「俺も弾きて〜」となったのをきっかけに、COVID-19の流行初期に買っていたギター ([S.Yairi YM-02](https://kcmusic.jp/syairi/compact-acoustic.html)) を引っぱりだしてきて弾き始めた。 (なんかサイトウさんの話ばかりしている)
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">おか史上初めてギターが三日坊主超えてる</p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1626142483469008896?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
