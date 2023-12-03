@@ -6,7 +6,7 @@ date: 2023-12-02T9:30:00+09:00
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の2日目)
 
 <div style="text-align: center;">
-<iframe src="https://adventar.org/calendars/9232/embed" width="620" height="362" frameborder="0" loading="lazy"></iframe>
+<iframe src="https://adventar.org/calendars/9232/embed" width="100%" height="362" frameborder="0" loading="lazy"></iframe>
 </div>
 
 継続できる人を尊敬する。自分の周りでは継続できる人と言えば[あらB](https://twitter.com/ark_B)さんと[サイトウ](https://twitter.com/sai_enlightened)さんである。お2人とも日常的に走られていて、あらBさんはポッドキャストやブログ記事などアウトプットがすごいし、サイトウさんは X (旧 Twitter)上で謎のハッシュタグを生み出して投稿し続けている。
