@@ -17,7 +17,7 @@ date: 2023-12-03T9:30:00+09:00
 
 ![蛇腹のカメラ](/blog/images/1203/1000012271_33.jpg)
 
-これは祖父の父か、さらに上の代の人が使っていたようだ (ちゃんと聞いてこなかった)。なんでこれを見に行ったかと言うと、先日[技術書典15](https://techbookfest.org/event/tbf15)で『戦前カメラをデジタル化する本』 ([BOOTH](https://booth.pm/ja/items/5004151), [技術書典](https://techbookfest.org/product/uQtucmc4mF1UpA3X4j9auU)) で買って自分もやってみたくなったから。
+これは祖父の父か、さらに上の代の人が使っていたようだ (ちゃんと聞いてこなかった)。なんでこれを見に行ったかと言うと、先日[技術書典15](https://techbookfest.org/event/tbf15)で『戦前カメラをデジタル化する本』 ([BOOTH](https://booth.pm/ja/items/5004151), [技術書典](https://techbookfest.org/product/uQtucmc4mF1UpA3X4j9auU)) を買って自分もやってみたくなったから。
 
 ![技術書典の戦利品](/blog/images/1203/1000011699_33.jpg)
 
