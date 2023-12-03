@@ -8,6 +8,7 @@ date: 2023-12-01T21:30:00+09:00
 - [人工芝 Advent Calendar 2023](https://adventar.org/calendars/9189)
 - [まにー Advent Calendar 2023](https://adventar.org/calendars/9303)
 - [かかーたさんの一人Advent2023 -思想脳弄- Advent Calendar 2023](https://adventar.org/calendars/9642)
+- [牽牛花 Advent Calendar 2023](https://adventar.org/calendars/9731)
 
 昨年は以下の3つを読んでいましたが、自分でやろうとは思いませんでした。
 
