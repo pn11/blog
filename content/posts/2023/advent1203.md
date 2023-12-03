@@ -11,24 +11,26 @@ date: 2023-12-03T9:30:00+09:00
 
 今日は祖父(95)の家に行き、古いカメラを見せてもらった。これが祖父の棚の写真。
 
-<img class="en-media en-media-image" data-hash="51cdbbcef98616c993a5a2a31054828f" data-type="image/jpeg" data-url="https://www.evernote.com/shard/s13/sh/51e67eb7-bdf7-19bf-f06e-9870986fb200/jwhKugw0FcLmeXpo7fNPZSFyxfX5GqTkRSvTZlHtzFjmpGIbQooChcQLHA/res/6c6ed4e0-5690-c3ea-1653-f42a5880ee34" src="https://www.evernote.com/shard/s13/sh/51e67eb7-bdf7-19bf-f06e-9870986fb200/jwhKugw0FcLmeXpo7fNPZSFyxfX5GqTkRSvTZlHtzFjmpGIbQooChcQLHA/res/6c6ed4e0-5690-c3ea-1653-f42a5880ee34" data-yjs-hook="en-resource" data-reference="resource-1" data-filename="1000012276.jpg" data-filesize="5350367" data-timestamp="1701607729631" style="--en-naturalWidth:3072; --en-naturalHeight:4080;">
+
+![](/resources/1203/1000012276_33.jpg)
 
 中段左には二眼レフカメラ、中央には一眼レフカメラがある。これらは祖父(1928年生まれ)も実際に使っていたとのこと。お目当ては下段にある蛇腹のやつ。
 
-![](https://www.evernote.com/shard/s13/sh/51e67eb7-bdf7-19bf-f06e-9870986fb200/jwhKugw0FcLmeXpo7fNPZSFyxfX5GqTkRSvTZlHtzFjmpGIbQooChcQLHA/res/50de5209-552d-128b-c5b6-914b3cbf4334)
+![](/resources/1203/1000012271_33.jpg)
+
 
 これは祖父の父か、さらに上の代の人が使っていたようだ (ちゃんと聞いてこなかった)。なんでこれを見に行ったかと言うと、先日[技術書典15](https://techbookfest.org/event/tbf15)で『戦前カメラをデジタル化する本』 ([BOOTH](https://booth.pm/ja/items/5004151), [技術書典](https://techbookfest.org/product/uQtucmc4mF1UpA3X4j9auU)) で買って自分もやってみたくなったから。
 
-![](https://www.evernote.com/shard/s13/sh/51e67eb7-bdf7-19bf-f06e-9870986fb200/jwhKugw0FcLmeXpo7fNPZSFyxfX5GqTkRSvTZlHtzFjmpGIbQooChcQLHA/res/759b1966-1bbe-8e93-e92d-cf4326701ed9)
+![](/resources/1203/1000011699_33.jpg)
 
 上に貼った BOOTH や技術書典のサンプルページを見ると分かるが、この本では蛇腹カメラの写真乾板を入れるところに、アルミ板をくっつけたデジタルカメラをマウントして撮影している。アルミ板を加工する技術は持っていないので、3Dプリンタでどうにかできないかな、ととりあえず乾板入れるところの大きさを測ってきた。
 ちなみに乾板というのはこういうもの。
 
-![](https://www.evernote.com/shard/s13/sh/51e67eb7-bdf7-19bf-f06e-9870986fb200/jwhKugw0FcLmeXpo7fNPZSFyxfX5GqTkRSvTZlHtzFjmpGIbQooChcQLHA/res/f37effb9-e062-080f-9617-407e1a7b7d15)
+![](/resources/1203/1000012272_33.jpg)
 
-![](https://www.evernote.com/shard/s13/sh/51e67eb7-bdf7-19bf-f06e-9870986fb200/jwhKugw0FcLmeXpo7fNPZSFyxfX5GqTkRSvTZlHtzFjmpGIbQooChcQLHA/res/8b10a3fe-6a6c-bbd7-2a81-934389cda8de)
+![](/resources/1203/1000012274_33.jpg)
 
-写真だと分かりにくいが、これはガラスの板で、乳剤を塗って乾燥させたもの。これをどうにかすると写真として現像できるらしい。
+写真だと分かりにくいが、これは擦りガラスの板で、乳剤を塗って乾燥させたもの。これをどうにかすると写真として現像できるらしい。
 
 ---
 
