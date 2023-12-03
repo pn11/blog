@@ -3,7 +3,13 @@ title: "おか Advent Calendar 2023"
 date: 2023-12-01T21:30:00+09:00
 ---
 
-この記事は[おか Advent Calendar 2023](https://adventar.org/calendars/9232)の1日目の記事です。 Advent Calendar と称して記事を書くのは[じゆうちょう Advent Calendar 2020](https://adventar.org/calendars/5028)に書いて以来3年ぶり。今年は初めて一人 Advent Calendar に挑戦してみます。周りでは以下の御三方も挑戦されているようなので、刺激を受けつつ頑張りたいと思います。
+この記事は[おか Advent Calendar 2023](https://adventar.org/calendars/9232)の1日目の記事です。
+
+<div style="text-align: center;">
+<iframe src="https://adventar.org/calendars/9232/embed" width="620" height="362" frameborder="0" loading="lazy"></iframe>
+</div>
+
+ Advent Calendar と称して記事を書くのは[じゆうちょう Advent Calendar 2020](https://adventar.org/calendars/5028)に書いて以来3年ぶり。今年は初めて一人 Advent Calendar に挑戦してみます。周りでは以下の御三方も挑戦されているようなので、刺激を受けつつ頑張りたいと思います。
 
 - [人工芝 Advent Calendar 2023](https://adventar.org/calendars/9189)
 - [まにー Advent Calendar 2023](https://adventar.org/calendars/9303)

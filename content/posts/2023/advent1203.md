@@ -5,7 +5,9 @@ date: 2023-12-03T9:30:00+09:00
 
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の3日目)
 
+<div style="text-align: center;">
 <iframe src="https://adventar.org/calendars/9232/embed" width="620" height="362" frameborder="0" loading="lazy"></iframe>
+</div>
 
 今日は祖父(95)の家に行き、古いカメラを見せてもらった。これが祖父の棚の写真。
 

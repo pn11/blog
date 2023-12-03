@@ -5,6 +5,10 @@ date: 2023-12-02T9:30:00+09:00
 
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の2日目)
 
+<div style="text-align: center;">
+<iframe src="https://adventar.org/calendars/9232/embed" width="620" height="362" frameborder="0" loading="lazy"></iframe>
+</div>
+
 継続できる人を尊敬する。自分の周りでは継続できる人と言えば[あらB](https://twitter.com/ark_B)さんと[サイトウ](https://twitter.com/sai_enlightened)さんである。お2人とも日常的に走られていて、あらBさんはポッドキャストやブログ記事などアウトプットがすごいし、サイトウさんは X (旧 Twitter)上で謎のハッシュタグを生み出して投稿し続けている。
 
 自分は継続することが苦手だと思っている。でも工夫次第では自分でも継続することが可能であることに最近気が付いた。きっかけは [Wordle](https://www.nytimes.com/games/wordle/index.html) だった。このパズルが流行して人々がこぞって結果を tweet し、New York Times が買収し、多種多様な亜種が生まれ、全人類が様々なプログラミング言語でソルバーを実装していたことを憶えている人は今日では少ないかもしれない。自分もWordleに興じた一人で、日付が変わり新しいパズルを解くのを毎日楽しみにしていた。ただWordleは何回かやると大体解けてしまうことが多いので、代わりに [Worldle](https://worldle.teuteuf.fr/) というゲームで遊ぶようになった。それからしばらくして、こんなにも毎日継続して何かをしたことがあっただろうか、これができるのなら他のこともできるのでは？と思い始めた。そして [Duolingo](https://ja.duolingo.com/) を始めた。
