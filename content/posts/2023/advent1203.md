@@ -11,7 +11,7 @@ date: 2023-12-03T9:30:00+09:00
 
 今日は祖父(95)の家に行き、古いカメラを見せてもらった。これが祖父の棚の写真。
 
-![](https://www.evernote.com/shard/s13/sh/51e67eb7-bdf7-19bf-f06e-9870986fb200/jwhKugw0FcLmeXpo7fNPZSFyxfX5GqTkRSvTZlHtzFjmpGIbQooChcQLHA/res/6c6ed4e0-5690-c3ea-1653-f42a5880ee34)
+![](https://www.evernote.com/shard/s13/sh/51e67eb7-bdf7-19bf-f06e-9870986fb200/jwhKugw0FcLmeXpo7fNPZSFyxfX5GqTkRSvTZlHtzFjmpGIbQooChcQLHA/res/6c6ed4e0-5690-c3ea-1653-f42a5880ee34.jpg)
 
 中段左には二眼レフカメラ、中央には一眼レフカメラがある。これらは祖父(1928年生まれ)も実際に使っていたとのこと。お目当ては下段にある蛇腹のやつ。
 
