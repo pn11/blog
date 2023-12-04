@@ -13,7 +13,7 @@ date: 2023-12-04T23:30:00+09:00
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/ossanfm?src=hash&amp;ref_src=twsrc%5Etfw">#ossanfm</a> miyagawa さんの回聴いてたら勉強会やりたくなった。和光.ai とかやったら人集まるんじゃね<a href="https://t.co/iiWZ7zr8ih">https://t.co/iiWZ7zr8ih</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1642100235219664896?ref_src=twsrc%5Etfw">April 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-数日後に友人のカソクキセンパイがAIブームに乗り遅れそうと言っていたので (前から機械学習使いたいと言っていたこともあり) 誘った。(カソクキセンパイとなんか立ち上げるのは10年ぶり4回目くらい？ 彼はその度にロゴを作ってくれる)
+その数日後に友人のカソクキセンパイがAIブームに乗り遅れそうと言っていたので (前から機械学習使いたいと言っていたこともあり) 誘った。(カソクキセンパイとなんか立ち上げるのは10年ぶり4回目くらい？ 彼はその度にロゴを作ってくれる)
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">和光でAI勉強会したい</p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1643098542171619328?ref_src=twsrc%5Etfw">April 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -51,5 +51,6 @@ Wako Weekday Workshop on AI の主な活動概要は以下のような感じで�
 - [GitHub](https://github.com/wako-ai)
   - 基本プライベートリポジトリですが、ちょっとだけ公開資料があります。
 - [SpeakerDeck](https://speakerdeck.com/wwwai)
+  - たまにスライド資料を上げてます。
 - [X (旧 Twitter) #WWWAI](https://twitter.com/search?q=%23wwwai&src=typed_query&f=live)
   - 活動の様子が垣間見れるかも。
