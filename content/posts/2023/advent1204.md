@@ -9,7 +9,7 @@ date: 2023-12-04T23:30:00+09:00
 <iframe src="https://adventar.org/calendars/9232/embed" width="100%" height="362" frameborder="0" loading="lazy"></iframe>
 </div>
 
-今日は和光市でやっている AI の勉強会、 Wako Weekday Workshop on AI の17回目だった。この勉強会は今年の4月からやっていて、9ヶ月目になったということになる。始めたきっかけは[Ossan.fm というポッドキャストで miyagawa さんが出演されていた回](https://ossan.fm/episode/yapckyoto2023)を聴き、勉強会やってみたいなあと思ったこと。
+今日は和光市でやっている AI の勉強会、 Wako Weekday Workshop on AI (WWWAI) の17回目だった。この勉強会は今年の4月からやっていて、9ヶ月目になったということになる。始めたきっかけは[Ossan.fm というポッドキャストで miyagawa さんが出演されていた回](https://ossan.fm/episode/yapckyoto2023)を聴き、勉強会やってみたいなあと思ったこと。
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/ossanfm?src=hash&amp;ref_src=twsrc%5Etfw">#ossanfm</a> miyagawa さんの回聴いてたら勉強会やりたくなった。和光.ai とかやったら人集まるんじゃね<a href="https://t.co/iiWZ7zr8ih">https://t.co/iiWZ7zr8ih</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1642100235219664896?ref_src=twsrc%5Etfw">April 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -23,7 +23,7 @@ date: 2023-12-04T23:30:00+09:00
 
 ---
 
-Wako Weekday Workshop on AI の主な活動概要は以下のような感じです。AI や機械学習に興味があれば誰でも歓迎ですので、参加希望の方は [X (旧 Twitter)](https://twitter.com/nowohyeah) などでご連絡ください。活動場所は和光市ですが、 Discord でオンラインでの議論に参加することも可能です (チャットのみ)。
+Wako Weekday Workshop on AI の主な活動概要は以下のような感じです。AI や機械学習に興味があれば誰でも歓迎ですので、参加希望の方は [X (旧 Twitter)](https://twitter.com/nowohyeah) などでご連絡ください。活動場所は埼玉県和光市ですが、 Discord でオンラインでの議論に参加することも可能です (チャットのみ)。
 
 #### 活動場所、日時
 
