@@ -7,25 +7,25 @@ date: 2023-12-05T20:24:00+09:00
 
 今日は軽め。 Duolingo を起動したら1年のレビューが表示されたのでそれを転載する。
 
-![Duolingo year in review](/blog/images/20231205/duo1.jpg)
+![Duolingo year in review](/blog/images/20231205/duo1.png)
 
-![Duolingo year in review](/blog/images/20231205/duo2.jpg)
+![Duolingo year in review](/blog/images/20231205/duo2.png)
 
-![Duolingo year in review](/blog/images/20231205/duo3.jpg)
+![Duolingo year in review](/blog/images/20231205/duo3.png)
 
-![Duolingo year in review](/blog/images/20231205/duo4.jpg)
+![Duolingo year in review](/blog/images/20231205/duo4.png)
 
-![Duolingo year in review](/blog/images/20231205/duo5.jpg)
+![Duolingo year in review](/blog/images/20231205/duo5.png)
 
-![Duolingo year in review](/blog/images/20231205/duo6.jpg)
+![Duolingo year in review](/blog/images/20231205/duo6.png)
 
-![Duolingo year in review](/blog/images/20231205/duo7.jpg)
+![Duolingo year in review](/blog/images/20231205/duo7.png)
 
-![Duolingo year in review](/blog/images/20231205/duo8.jpg)
+![Duolingo year in review](/blog/images/20231205/duo8.png)
 
-![Duolingo year in review](/blog/images/20231205/duo9.jpg)
+![Duolingo year in review](/blog/images/20231205/duo9.png)
 
-![Duolingo year in review](/blog/images/20231205/duo10.jpg)
+![Duolingo year in review](/blog/images/20231205/duo10.png)
 
 毎日のミッションをクリアしていくと月ごとにもらえるバッジについては、7ヶ月分もらえた (12月はまだなので8ヶ月になる可能性あり)
 
