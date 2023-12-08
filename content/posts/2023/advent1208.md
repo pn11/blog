@@ -11,7 +11,7 @@ date: 2023-12-08T23:59:59+09:00
 
 ---
 
-今日は何を書こうかなと考えていたら、 X (旧: Twitter) でアクシオンまとめが連投されているのを見つけてしまった。軽い気持ちで日本語に訳してブログに載せて良いか聞いたら許可されたのでやったが、元のやつが長いのでけっこう大変だった。
+今日は何を書こうかな、ジョン・レノンの命日だし Now And Then を聴いた感想とか使われているAI技術について調べて書こうかなとか考えていたら、 X (旧: Twitter) でアクシオンまとめが連投されているのを見つけてしまった。軽い気持ちで日本語に訳してブログに載せて良いか聞いたら許可されたのでやったが、元のやつが長いのでけっこう大変だった。
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Hello. Thanks for the wonderful review! Can I post a Japanese translation of this thread on my blog?</p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1733058577529799137?ref_src=twsrc%5Etfw">December 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
