@@ -5,7 +5,7 @@ date: 2023-12-09T23:59:59+09:00
 
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の10日目)
 
-今日はいっちぃ勉強会だった。いっちぃ勉強会とは、いっちぃさんを盟主として、月に2回ほど土日に開催しているオンラインの勉強会で、情報系や物理系の本を輪読している。
+今日はいっちぃ勉強会だった。いっちぃ勉強会とは、いっちぃさんを盟主として月に2回ほど土日に開催しているオンラインの勉強会で、情報系や物理系の本を輪読している。
 
 これまでは
 
@@ -24,13 +24,17 @@ date: 2023-12-09T23:59:59+09:00
 
 - [Equilibrium Information from Nonequilibrium Measurements in an Experimental Test of Jarzynski's Equality | Science](https://www.science.org/doi/10.1126/science.1071152)
 
-これはレーザーピンセットにより RNA を伸び縮みさせ (RNA の両端にコロイドがついていてそれを操作する) 熱力学的性質を測定したという論文。光ピンセットはノーベル賞を獲ったは知っていたけど、このように使えるということを知って衝撃を受けた。
+これはレーザーピンセットにより RNA を伸び縮みさせ (RNA の両端にコロイドがついていてそれを操作する) 熱力学的性質を測定したという論文。光ピンセットはノーベル賞を獲ったのは知っていたけど、このように使えるということを知って衝撃を受けた。
 
 2つめはマクスウェルの悪魔を実現した有名な論文。
 
 - [Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality | Nature Physics](https://www.nature.com/articles/nphys1821)
 
 この本の第1章を読んでから読むと、この論文に出てくる数式は全て馴染みのあるものに見え、有名な論文がなんとなく分かった気がしてうれしかった。久しぶりにいっちぃ勉強会で達成感を得た気がする。
+
+## リンク集
+
+- いっちぃ勉強会で作った正誤表 (多過ぎて力尽きた) <https://github.com/itchy-seminar/bayes>
 
 <div style="text-align: center;">
 <iframe src="https://adventar.org/calendars/9232/embed" width="100%" height="362" frameborder="0" loading="lazy"></iframe>
