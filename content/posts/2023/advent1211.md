@@ -1,6 +1,6 @@
 ---
 title: "Spotify 2023"
-date: 2023-12-09T23:59:59+09:00
+date: 2023-12-11T23:59:59+09:00
 ---
 
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の10日目)
@@ -15,7 +15,9 @@ Spotify のまとめを出してみたので載っけておく。
 
 曲別だと、1位の Blackbird は[この記事](/blog/posts/2023/advent1202)で書いたようにギターの練習のためにたくさん聴いた。5位の I've Just Seen A Face も弾きたくて聴いた。3位はスピッツの新しいアルバムに入っているコナンの映画の主題歌。コナンは特に観てない。2位と4位が RRR なのがウケる。Etthara Jenda はエンディング曲でとにかく陽気で楽しい。Dosti はせつなくて良い。ちなみに杏さんは Komuram Bheemudo を弾いてた。
 
+<div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-R7If5xlVPY?si=MCks41JWoBMlf9BC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <div style="text-align: center;">
 <iframe src="https://adventar.org/calendars/9232/embed" width="100%" height="362" frameborder="0" loading="lazy"></iframe>
