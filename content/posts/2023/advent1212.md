@@ -12,6 +12,7 @@ date: 2023-12-12T23:59:59+09:00
 <https://year-in-review.nintendo.com/>
 
 <img src="/blog/images/20231212/switch1.png" alt="Nintendo Switch まとめ" width="600">
+<br>
 <img src="/blog/images/20231212/switch2.png" alt="Nintendo Switch まとめ" width="600">
 
 今年はなんと言ってもゼルダの伝説ティアーズ・オブ・ザ・キングダム (ティアキン) だった。5月と6月で128時間やったらしい。発売前はもっと生活が崩壊するほどやるのではないかと危惧していたけど、そこまでにはならなかった。一気にクリアした結果ストーリーをすぐに忘れてしまった。ネタバレを恐れて他の人の動画を見てテクニックを学ぶとかもしていなかったので、見てからもう一度プレイしたらまだまだ楽しめそう、と思いつつ面倒でやってない。
@@ -20,7 +21,7 @@ date: 2023-12-12T23:59:59+09:00
 
 <https://wrapup.playstation.com/>
 
-<img src="/blog/images/20231212/ps4.png" alt="Nintendo Switch まとめ" width="600">
+<img src="/blog/images/20231212/ps4.png" alt="Play Station まとめ" width="600">
 
 ティアキンをクリアした後、積んでいた Horizon Zero Dawn を7時間ほどやったらしい。ストーリーが明かされ始めて面白くなっていく気配が出てきたところでなぜかやめてしまった。車を買って出かけることが増えてきたからかも。 eFootball (いわゆるウイイレ) はワールドカップ後になんとなく盛り上がってちょっとやっていたっぽい。
 
@@ -30,9 +31,9 @@ date: 2023-12-12T23:59:59+09:00
 - <https://s.team/y23/fgrwppwn?l=japanese>
 
 <img src="/blog/images/20231212/steam1.png" alt="Steam まとめ" width="600">
-
+<br>
 <img src="/blog/images/20231212/steam2.png" alt="Steam まとめ" width="600">
-
+<br>
 <img src="/blog/images/20231212/steam3.png" alt="Steam まとめ" width="600">
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">スイッチとの比較。だいぶデカいけど厚みはそこまでじゃないので持てる。外に持って行こうとは思わないかな <a href="https://t.co/2DYeyg1U94">pic.twitter.com/2DYeyg1U94</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1637024655675650049?ref_src=twsrc%5Etfw">March 18, 2023</a>
