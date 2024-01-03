@@ -45,6 +45,19 @@ date: 2023-12-12T23:59:59+09:00
 
 Epic Games は見た感じ振り返り機能がなさそう。確認したら2022年12月に Death Stranding をちょっとやったのが最後で、2023年は使っていなかった。
 
+## Oka's GOTY
+
+最後に私の Game Of The Year 2023 を発表します。
+
+2023年の Oka's GOTY は「駐車の達人4」です。車を買って借りた駐車区画がマンションの駐車場の一番奥かつ隣が高級車で難易度高めだったので、このアプリで駐車技術を学びました。そのおかげか、最初の頃は何度も切り返して駐車していたのが、すんなり駐車できるようになりました。実用性を考慮して Oka's GOTY を授与します。
+
+<img src="/blog/images/20231212/parking.jpg" alt="駐車の達人4" width="600">
+
+あとは年末に彗星のごとく現われた二重振り子で除夜の鐘を叩くゲームも良かったですね。
+
+- [坊主がクレーン車で除夜の鐘を叩くゲーム | フリーゲーム投稿サイト unityroom](https://unityroom.com/games/bozucrane)
+
+<img src="/blog/images/20231212/double-pendulum.jpg" alt="坊主がクレーン車で除夜の鐘を叩くゲーム" width="600">
 
 <div style="text-align: center;">
 <iframe src="https://adventar.org/calendars/9232/embed" width="100%" height="362" frameborder="0" loading="lazy"></iframe>
