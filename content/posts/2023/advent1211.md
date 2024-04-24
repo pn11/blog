@@ -3,7 +3,7 @@ title: "Spotify 2023"
 date: 2023-12-11T23:59:59+09:00
 ---
 
-([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の10日目)
+([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の11日目)
 
 Spotify のまとめを出してみたので載っけておく。
 
