@@ -65,7 +65,33 @@ $ llm -m groq-llama3 "おいしい寿司のネタは何ですか？ 日本語で
 これらのネタは、寿司業界でも決まった人気のターゲットとなっており、その人気の高さから、寿司店での人気の高いネタに挙げられるようになっている。
 ```
 
-答えがめちゃくちゃだが、動いた。
+答えがめちゃくちゃだが、動いた。Grok のプラグインを入れると、使えるモデルは以下のようになる。
+
+```sh
+$ llm models
+OpenAI Chat: gpt-3.5-turbo (aliases: 3.5, chatgpt)
+OpenAI Chat: gpt-3.5-turbo-16k (aliases: chatgpt-16k, 3.5-16k)
+OpenAI Chat: gpt-4 (aliases: 4, gpt4)
+OpenAI Chat: gpt-4-32k (aliases: 4-32k)
+OpenAI Chat: gpt-4-1106-preview
+OpenAI Chat: gpt-4-0125-preview
+OpenAI Chat: gpt-4-turbo-2024-04-09
+OpenAI Chat: gpt-4-turbo (aliases: gpt-4-turbo-preview, 4-turbo, 4t)
+OpenAI Chat: gpt-4o (aliases: 4o)
+OpenAI Chat: gpt-4o-mini (aliases: 4o-mini)
+OpenAI Completion: gpt-3.5-turbo-instruct (aliases: 3.5-instruct, chatgpt-instruct)
+LLMGroq: groq-llama2
+LLMGroq: groq-llama3
+LLMGroq: groq-llama3-70b
+LLMGroq: groq-llama3.1-8b
+LLMGroq: groq-llama3.1-70b
+LLMGroq: groq-llama3.1-405b
+LLMGroq: groq-mixtral
+LLMGroq: groq-gemma
+LLMGroq: groq-gemma2
+```
+
+プラグインのリストは [Plugin directory - LLM](https://llm.datasette.io/en/stable/plugins/directory.html) にある。
 
 ### ログの確認
 
