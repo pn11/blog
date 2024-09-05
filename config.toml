@@ -1,7 +1,11 @@
 baseURL = 'https://pn11.github.io/blog/'
+#baseURL = 'http://localhost:1313/blog/'
 languageCode = 'ja-jp'
 title = "pn11's blog"
 theme = "beautifulhugo"
+
+disqusShortname = "pn11-blog"
+comments = "true"
 
 [markup.goldmark.renderer]
  unsafe = true
