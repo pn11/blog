@@ -1,6 +1,7 @@
 ---
 title: "歌舞伎町で『インセプション』を観た"
 date: 2023-12-07T23:21:00+09:00
+comments: true
 ---
 
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の7日目)

@@ -1,6 +1,7 @@
 ---
 title: "ゲーム 2023"
 date: 2023-12-12T23:59:59+09:00
+comments: true
 ---
 
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の12日目)

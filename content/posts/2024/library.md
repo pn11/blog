@@ -1,6 +1,7 @@
 ---
 title: "和光市民が使える図書館"
 date: 2024-02-03T10:30:00+09:00
+comments: true
 ---
 
 - [他の図書館 - 和光市図書館](https://www.wakolib.jp/post.html)

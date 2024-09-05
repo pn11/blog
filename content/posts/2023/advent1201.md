@@ -1,6 +1,7 @@
 ---
 title: "おか Advent Calendar 2023"
 date: 2023-12-01T21:30:00+09:00
+comments: true
 ---
 
 この記事は[おか Advent Calendar 2023](https://adventar.org/calendars/9232)の1日目の記事です。

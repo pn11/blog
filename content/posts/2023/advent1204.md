@@ -1,6 +1,7 @@
 ---
 title: "Wako Weekday Workshop on AI"
 date: 2023-12-04T23:30:00+09:00
+comments: true
 ---
 
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の4日目)

@@ -1,6 +1,7 @@
 ---
 title: "ブログ作った"
 date: 2022-11-02T20:00:00+09:00
+comments: true
 ---
 
 Hugo で作った。テーマは  [Complete List | Hugo Themes](https://themes.gohugo.io/) から [Beautiful Hugo](https://themes.gohugo.io/themes/beautifulhugo/) を選んだ。最初 [ink-free](https://themes.gohugo.io/themes/ink-free/) を使おうとしたけど動かなかった。

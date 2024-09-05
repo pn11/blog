@@ -1,6 +1,7 @@
 ---
 title: "Duolingo 2023"
 date: 2023-12-05T20:24:00+09:00
+comments: true
 ---
 
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の5日目)

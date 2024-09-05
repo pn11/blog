@@ -2,6 +2,7 @@
 title: "Zwift環境
 2023"
 date: 2023-01-17T18:30:00+09:00
+comments: true
 ---
 
 自分の使用している Zwift 環境についてまとめておく。

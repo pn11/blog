@@ -1,6 +1,7 @@
 ---
 title: "Jupyter で CERN ROOT を動かす環境を作る2024"
 date: 2024-04-24T20:00:00+09:00
+comments: true
 ---
 
 - [Installing ROOT - ROOT](https://root.cern/install/#conda)

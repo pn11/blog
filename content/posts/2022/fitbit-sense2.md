@@ -1,6 +1,7 @@
 ---
 title: "Fitbit Sense2 のウォッチフェイス"
 date: 2022-12-08T22:38:00+09:00
+comments: true
 ---
 
 Fitbit Sense2 を買った。ウォッチフェイスを探したけどピンと来るのがない。今のところ以下で紹介されている [Sunrise](https://gallery.fitbit.com/details/febff4ac-4efb-450e-ab3a-485a75c744c8) ってやつにしている。

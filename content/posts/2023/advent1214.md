@@ -1,6 +1,7 @@
 ---
 title: "ミラーレスでピンホールカメラを作った"
 date: 2023-12-14T23:39:59+09:00
+comments: true
 ---
 
 ([おか Advent Calendar 2023](https://adventar.org/calendars/9232)の14日目)

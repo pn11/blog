@@ -2,6 +2,7 @@
 title: "Tmux を VS Code Integrate Terminal で使うための設定"
 date: 2023-01-19T16:00:00+09:00
 draft: true
+comments: true
 ---
 
 - [VS Code and tmux intergation for reliable remote development | by Compiler-Debugger-Profiler | Medium](https://cppdev.medium.com/vs-code-and-tmux-intergation-for-reliable-remote-development-e26594e6757a)
