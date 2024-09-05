@@ -7,7 +7,6 @@ theme = "beautifulhugo"
  unsafe = true
 
 [Params]
-  comments = true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true

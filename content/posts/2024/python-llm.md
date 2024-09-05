@@ -1,6 +1,7 @@
 ---
 title: "llm コマンドを使ってみる"
 date: 2024-09-05T20:30:00+09:00
+comments: true
 ---
 
 普段 ChatGPT や Perplexity をブラウザやアプリで使っているが、 LLM とのやり取りをログに残しておきたいという気持ちがあるので、ずいぶん前に [Rebuild: 379: Vision Pro For Hernia Treatment (naan)](https://rebuild.fm/379/) で紹介されていた [simonw/llm: Access large language models from the command-line](https://github.com/simonw/llm) を使ってみる。SQLite に結果が保存されるので、あとで見返したりデータを再利用しやすそう。
