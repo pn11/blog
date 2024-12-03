@@ -19,11 +19,11 @@ comments: true
 - [水元山・函館山（御殿山） / pn11さんの函館山の活動データ | YAMAP / ヤマップ](https://yamap.com/activities/31717795)
 - [函館山（御殿山）・水元山 / pn11さんの函館山の活動データ | YAMAP / ヤマップ](https://yamap.com/activities/31717949)
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">はるばる来たぜ <a href="https://t.co/Uxe23fjrjk">pic.twitter.com/Uxe23fjrjk</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1789276900340510963?ref_src=twsrc%5Etfw">May 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">はるばる来たぜ <a href="https://t.co/Uxe23fjrjk">pic.twitter.com/Uxe23fjrjk</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1789276900340510963?ref_src=twsrc%5Etfw">May 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">からの夜景！ これは掬星台よりきれいかも。<br>オーロラは曇ってて見えません！<a href="https://twitter.com/hashtag/OkaObservatory?src=hash&amp;ref_src=twsrc%5Etfw">#OkaObservatory</a> <a href="https://t.co/jGA6MWsHDq">pic.twitter.com/jGA6MWsHDq</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1789325872354537922?ref_src=twsrc%5Etfw">May 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">からの夜景！ これは掬星台よりきれいかも。<br>オーロラは曇ってて見えません！<a href="https://twitter.com/hashtag/OkaObservatory?src=hash&amp;ref_src=twsrc%5Etfw">#OkaObservatory</a> <a href="https://t.co/jGA6MWsHDq">pic.twitter.com/jGA6MWsHDq</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1789325872354537922?ref_src=twsrc%5Etfw">May 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">やまけんさんおすすめシリーズ <a href="https://t.co/tchaHsg8SM">pic.twitter.com/tchaHsg8SM</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1789578701467996381?ref_src=twsrc%5Etfw">May 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">やまけんさんおすすめシリーズ <a href="https://t.co/tchaHsg8SM">pic.twitter.com/tchaHsg8SM</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1789578701467996381?ref_src=twsrc%5Etfw">May 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 2024/10/26 四阿山
 
@@ -32,11 +32,11 @@ comments: true
 
 - [小四阿・中四阿・四阿山・根子岳・小根子岳 / pn11さんの四阿山・根子岳の活動データ | YAMAP / ヤマップ](https://yamap.com/activities/35447404)
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">なんか読めないけど百名山登ったぞい <a href="https://t.co/CQ3v67oOrs">pic.twitter.com/CQ3v67oOrs</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1849990017978073236?ref_src=twsrc%5Etfw">October 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">なんか読めないけど百名山登ったぞい <a href="https://t.co/CQ3v67oOrs">pic.twitter.com/CQ3v67oOrs</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1849990017978073236?ref_src=twsrc%5Etfw">October 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こねこ岳🐱 <a href="https://t.co/OBbONBshq9">pic.twitter.com/OBbONBshq9</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1850019254214721621?ref_src=twsrc%5Etfw">October 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">こねこ岳🐱 <a href="https://t.co/OBbONBshq9">pic.twitter.com/OBbONBshq9</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1850019254214721621?ref_src=twsrc%5Etfw">October 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">富山は晴れてたのに射水のあたりが霧で霞んでる… まあこれはこれできれいか <a href="https://t.co/DsW0v3atXX">pic.twitter.com/DsW0v3atXX</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1850313803050995942?ref_src=twsrc%5Etfw">October 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">富山は晴れてたのに射水のあたりが霧で霞んでる… まあこれはこれできれいか <a href="https://t.co/DsW0v3atXX">pic.twitter.com/DsW0v3atXX</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1850313803050995942?ref_src=twsrc%5Etfw">October 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 2024/11/09 大菩薩嶺
 
@@ -44,8 +44,8 @@ comments: true
 
 - [大菩薩嶺・親不知ノ頭 / pn11さんの大菩薩嶺・鶏冠山・大マテイ山の活動データ | YAMAP / ヤマップ](https://yamap.com/activities/35772492)
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">景色よすぎる <a href="https://t.co/3MJw9VXAiK">pic.twitter.com/3MJw9VXAiK</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1855020405171663297?ref_src=twsrc%5Etfw">November 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">景色よすぎる <a href="https://t.co/3MJw9VXAiK">pic.twitter.com/3MJw9VXAiK</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1855020405171663297?ref_src=twsrc%5Etfw">November 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">大菩薩嶺 <a href="https://t.co/AYEWpSIcAQ">pic.twitter.com/AYEWpSIcAQ</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1855026098901520543?ref_src=twsrc%5Etfw">November 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">大菩薩嶺 <a href="https://t.co/AYEWpSIcAQ">pic.twitter.com/AYEWpSIcAQ</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1855026098901520543?ref_src=twsrc%5Etfw">November 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">小説は読んだことなし <a href="https://t.co/kKq741nS4j">pic.twitter.com/kKq741nS4j</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1855035499385438421?ref_src=twsrc%5Etfw">November 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">小説は読んだことなし <a href="https://t.co/kKq741nS4j">pic.twitter.com/kKq741nS4j</a></p>&mdash; oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1855035499385438421?ref_src=twsrc%5Etfw">November 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
