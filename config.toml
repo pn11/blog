@@ -7,11 +7,11 @@ theme = "beautifulhugo"
 disqusShortname = "pn11-blog"
 
 [markup.goldmark.renderer]
- unsafe = true
+  unsafe = true
 
 [Params]
   socialShare = true
-  delayDisqus = true
+  delayDisqus = false
   showRelatedPosts = true
 
 #[services]
