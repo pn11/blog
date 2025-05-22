@@ -4,7 +4,15 @@ date: 2025-05-22T19:57:00+09:00
 comments: true
 ---
 
-万博に行きたいので X で見かけた tweet をめもっておく。だいたい下に行くほど古い。
+万博に行きたいので X で見かけた tweet をめもっておく。だいたい下に行くほど古い。  
+まず、[つじ](https://x.com/t_tsuji)さんの地図は印刷しておきたい。
+
+- [Xユーザーのつじ@万博4/8回目さん: 「万博のパビリオン巡りを主目的とした地図をVer2.03にバージョンアップ （リンクはGoogledriveのpdf） https://t.co/StZKDnNElB ・パビリオンの入場方法を最新情報（5/15）に更新 ・指摘箇所等の微修正 ネットプリント、根拠資料、今後の更新、他言語版等はリプに https://t.co/Q9MOreCkdo」 / X](https://x.com/t_tsuji/status/1923009219059384422)
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">万博のパビリオン巡りを主目的とした地図をVer2.03にバージョンアップ<br>（リンクはGoogledriveのpdf）<a href="https://t.co/StZKDnNElB">https://t.co/StZKDnNElB</a><br>・パビリオンの入場方法を最新情報（5/15）に更新<br>・指摘箇所等の微修正<br>ネットプリント、根拠資料、今後の更新、他言語版等はリプに <a href="https://t.co/Q9MOreCkdo">pic.twitter.com/Q9MOreCkdo</a></p>&mdash; つじ@万博4/8回目 (@t_tsuji) <a href="https://twitter.com/t_tsuji/status/1923009219059384422?ref_src=twsrc%5Etfw">May 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## その他
 
 - [Xユーザーのかのん@8歳♀&6歳♂さん: 「🔵万博に持ってくといいもの🔴 ・QRコードは紙に印刷 ・@t_tsuji さんのマップ (A3印刷がベスト) ・@pipi129110 さんのスタンプラリー (水濡れ＆インク擦れ対策でクリアファイルでカバーすると使いやすい👍) ・NTTの万博アプリ (位置情報が出るので迷いにくい) ・ミャクミャクグッズ https://t.co/Epm1bDnBRz」 / X](https://x.com/kanon_ikuji/status/1925171711470960832)
 - [Xユーザーの平原こうや【万博🌏ガチ勢】さん: 「【渡航危険レベルの高い国の魅力を万博で🌏】 大阪・関西万博で、渡航が難しい国のパビリオンを紹介🔥 ❶ 🇸🇴 ソマリア（レベル4）：古代交易の歴史、ソマリ族の衣装、スパイス料理を展示。 📍コモンズＢ ❷ 🇸🇩 スーダン（レベル4）：ヌビア文明の遺跡、伝統音楽ハギーバ、手工芸品を紹介。 https://t.co/VFW1dhLQQ9」 / X](https://x.com/HIRAHARAKOUYA/status/1919146265654579442)
