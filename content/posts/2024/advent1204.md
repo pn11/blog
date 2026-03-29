@@ -4,7 +4,7 @@ date: 2024-12-04T22:30:00+09:00
 comments: true
 ---
 
-この記事は[おか Advent Calendar 2024](https://adventar.org/calendars/10997)の2日目の記事です。
+この記事は[おか Advent Calendar 2024](https://adventar.org/calendars/10997)の4日目の記事です。
 
 <div style="text-align: center;">
 <iframe src="https://adventar.org/calendars/10997/embed" width="100%" height="362" frameborder="0" loading="lazy"></iframe>
